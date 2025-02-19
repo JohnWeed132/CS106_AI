@@ -1,0 +1,12 @@
+==========
+Args:Namespace(split=None, split_id=0, seed=1, gpu='0', input_dim=1024, hidden_dim=256, num_layers=1, rnn_cell='lstm', dataset='data_our/data_h5/data.h5', makescore=True, model='log/summe-split0/model_epoch60.pth.tar', save_dir='logs/videolog/', use_cpu=False, summary=True, frm_dir='frames/fairy_tail', makedatasets=False, video_dir=None, save_name='fairy_tail.mp4', fps=30, width=640, height=480, train_data=False)
+==========
+Currently using GPU 0
+Initialize dataset data_our/data_h5/data.h5
+['video_1']
+# total videos 1. # test videos 1
+Initialize model
+Model size: 2.62605M
+Loading checkpoint from 'log/summe-split0/model_epoch60.pth.tar'
+Evaluate
+==> Test
